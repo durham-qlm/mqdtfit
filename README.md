@@ -4,7 +4,7 @@ The original code of mqdtfit, with theory and examples, has been published in Co
 
 The files published with this article can be found in this repository, in the folder mqdtfit_cpc. They are also available from the CPC Library at https://doi.org/10.17632/nzgygzd96c.1 . 
 
-These codes have been used, in particular, in new MQDT models of a number of series of strontium - see C L Vaillant, M P A Jones and R M Potvliege, Addendum: Multichannel quantum defect theory of strontium bound Rydberg states (2014 J. Phys. B: At. Mol. Opt. Phys. 47 155001), J. Phys. B: At. Mol. Opt. Phys. *57* (2024) 199401, https://doi.org/10.1088/1361-6455/ad76f0 . The drivers used to generate these results can also be found in this repository.
+These codes have been used, in particular, in new MQDT models of a number of series of strontium - see C L Vaillant, M P A Jones and R M Potvliege, Addendum: Multichannel quantum defect theory of strontium bound Rydberg states (2014 J. Phys. B: At. Mol. Opt. Phys. 47 155001), J. Phys. B: At. Mol. Opt. Phys. *57* (2024) 199401, https://doi.org/10.1088/1361-6455/ad76f0 . The drivers used to generate these results can also be found in this repository, in the strontium folder.
 
 ## Contents
 
@@ -24,3 +24,5 @@ This repository currently contains the following items:
 - **mqdtfit_cpc/LuFanoplot.pdf**: The graph produced by ytterbium.py.
 
 ### The driver programs used to generate the strontium results published in the 2024 J. Phys. B article (the strontium folder) 
+
+These programs are meant to be used in conjunction with the mqdtfit.py module contained in the mqdt_cpc folder. 
