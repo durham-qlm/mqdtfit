@@ -23,6 +23,6 @@ This repository currently contains the following items:
 - **mqdtfit_cpc/ytterbium_output.txt**: A copy of the text output generated when running ytterbium.py.
 - **mqdtfit_cpc/LuFanoplot.pdf**: The graph produced by ytterbium.py.
 
-### The driver programs used to generate the strontium results published in the 2024 J. Phys. B article (the strontium folder) 
+### The driver programs used to generate the strontium results published in the 2024 J. Phys. B article mentioned above (the strontium folder) 
 
 These programs are meant to be used in conjunction with the mqdtfit.py module contained in the mqdt_cpc folder. 
